@@ -1,0 +1,4 @@
+project_id = "sownyqxqdspsktnabgrj"
+
+[functions.mood-coach]
+verify_jwt = false
